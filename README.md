@@ -10,12 +10,12 @@ Creating a display frame using an iPhone 6 for the 10th anniversary of its relea
 
 ### Next Steps:
 
-1. Find a suitable adhesive to be used (likely double sided tape)
-2. Print template
-3. Assemble
+* Find a suitable adhesive to be used (likely double sided tape)
+* Print template
+* Assemble
 
 ### Links:
 
-The [.xcf](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/template.xcf) and [.png](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/template.png) files for the template with the scanned background.
-the [.xcf](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/template-white-bg.xcf) and [.png](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/template-white-bg.png) files for the template with a white background.
-An absolutely terrible teaser video I made [teaser-video.mp4](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/teaser-video.mp4). Also on [https://www.youtube.com/shorts/Zszg1FkB1RU](YouTube).
+* The [.xcf](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/template.xcf) and [.png](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/template.png) files for the template with the scanned background.
+* The [.xcf](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/template-white-bg.xcf) and [.png](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/template-white-bg.png) files for the template with a white background.
+* An absolutely terrible teaser video I made [teaser-video.mp4](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/teaser-video.mp4). Also on [https://www.youtube.com/shorts/Zszg1FkB1RU](YouTube).
