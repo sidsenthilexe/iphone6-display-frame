@@ -16,7 +16,7 @@ Creating a display frame using an iPhone 6 for the 10th anniversary of its relea
 
 ### Links:
 
-![](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/template.png?raw=true)
+![](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/template.png?raw=true =x250)
 
 * The [.xcf](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/template.xcf) and [.png](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/template.png) files for the template with the scanned background.
 * The [.xcf](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/template-white-bg.xcf) and [.png](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/template-white-bg.png) files for the template with a white background.
