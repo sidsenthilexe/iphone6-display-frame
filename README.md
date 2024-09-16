@@ -5,7 +5,7 @@ Creating a display frame using an iPhone 6 for the 10th anniversary of its relea
 
 ### Completed:
 
-1. Diassembly: fairly straightforward, just using a precision screwdriver. Some parts needed to be pried apart with a spudger.
+1. Disassembly: fairly straightforward, just using a precision screwdriver. Some parts needed to be pried apart with a spudger.
 2. Creating template: Laid out components on a piece of tabloid sized paper, scanned it using a phone. Imported the image to GIMP to add text (using SF Pro Display font).
 
 ### Next Steps:
