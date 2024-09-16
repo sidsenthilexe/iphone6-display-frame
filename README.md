@@ -10,7 +10,7 @@ Creating a display frame using an iPhone 6 for the 10th anniversary of its relea
 
 ### Next Steps:
 
-* Find a suitable adhesive to be used (likely double sided tape)
+* Find a suitable adhesive to be used (likely double sided tape or 3M Super 77)
 * Print template
 * Assemble
 
