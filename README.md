@@ -23,7 +23,7 @@ The build process, as documented below, is roughly the same for both the iPhone 
 <img src="https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/template.png?raw=true" alt="Template with the scanned background." width="500"/>
 <img src="https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/template-white-bg.png?raw=true" alt="Template with a white background." width="500"/>
 <img src="https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/iPod-template.png?raw=true" alt="Template for iPod with the scanned background." width="500"/>
-<img src="https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/iPod-template-white-bg.png?raw=true" alt="Template for iPod with a white background." width-="500"/>
+<img src="https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/iPod-template-white-bg.png?raw=true" alt="Template for iPod with a white background." width="500"/>
 
 ### Links:
 
