@@ -1,12 +1,12 @@
 # iphone6-display-frame
+
+## Synopsis: 
 * Creating a display frame using an iPhone 6 for the 10th anniversary of its release.
 * Final product is on [YouTube](https://youtu.be/Dt289FV9ek0):
 
 [![iPhone 6 10th Anniversary - Good Day For Dreaming](https://img.youtube.com/vi/Dt289FV9ek0/0.jpg)](https://www.youtube.com/watch?v=Dt289FV9ek0)
 * The best images of the final product: [1](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/final-product-1.JPG), [2](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/final-product-2.JPG), [3](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/final-product-3.JPG), [4](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/final-product-4.JPG), and [5](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/final-product-5.JPG).
 
-## Synopsis: 
-Creating a display piece, similar to the ones from GRID, using an old iPhone 6 and iPod Nano.
 
 ## Process:
 The build process, as documented below, is roughly the same for both the iPhone 6 and iPod Nano.
