@@ -1,5 +1,6 @@
 # iphone6-display-frame
-Creating a display frame using an iPhone 6 for the 10th anniversary of its release.
+* Creating a display frame using an iPhone 6 for the 10th anniversary of its release.
+* Final product is on [YouTube](https://youtu.be/Dt289FV9ek0?si=W2O1jGgvhuZR6WL0).
 
 ## Synopsis: 
 Creating a display piece, similar to the ones from GRID, using an old iPhone 6 and iPod Nano.
