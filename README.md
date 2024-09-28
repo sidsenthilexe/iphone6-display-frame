@@ -9,7 +9,8 @@
 
 
 ## Process:
-The build process, as documented below, is roughly the same for both the iPhone 6 and iPod Nano.
+The build process, as documented below, is roughly the same for both the iPhone 6 and 3rd Gen iPod Nano. <br>
+<sup>Since the iPod Nano came up sort of as a side project, the template is actually too big for the frame I used. Make sure the image is printed smaller if recreating.
 
 ### Completed:
 
