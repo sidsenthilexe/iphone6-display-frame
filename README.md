@@ -24,7 +24,6 @@ The build process, as documented below, is roughly the same for both the iPhone 
 iPhone 6:
 * The [.xcf](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/template.xcf) and [.png](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/template.png) files for the template with the scanned background.
 * The [.xcf](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/template-white-bg.xcf) and [.png](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/template-white-bg.png) files for the template with a white background.
-* An absolutely terrible [teaser video](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/teaser-video.mp4) I made. Also on [YouTube](https://www.youtube.com/shorts/Zszg1FkB1RU).
 
 iPod Nano:
 * The [.xcf](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/iPod-template.xcf) and [.png](https://github.com/sidsenthilexe/iphone6-display-frame/blob/main/iPod-template.png) files for the template with the scanned background.
